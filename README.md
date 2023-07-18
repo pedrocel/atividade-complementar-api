@@ -34,3 +34,25 @@ Todas as tabelas devem possuir relacionamento com o usuário atual para que perm
 Deve ser implementado o Swagger para documentar a API.
 
 Ao finalizar o projeto, deve ser feito o commit no projeto.
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+Versão 2.0 
+
+Módulo de inscrição em vagas
+
+Cadastro de vagas com os dados:
+Nome da empresa, nome da vaga, descrição da vaga, salário, tipo de contratação (PJ, CLT, Estágio, Temporário)
+
+Listagem de vagas:
+Listar todas as vagas do sistema
+
+Realizar inscrição em uma vaga:
+Vincular usuário com vaga. Um usuário só pode se inscrever 1 vez em uma vaga.
+
+perfil de administrador pode criar vagas, perfil de cliente se cadastra nas vagas.
+
+Administrador por ver quantos usuários se cadastraram nas vagas.
+
+Prazo de entrega 25/07/2023
